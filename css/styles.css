@@ -394,6 +394,8 @@ button {
   padding-right: 22px;
   padding-left: 22px;
 
+  transition: background-color 250ms var(--transition-timing-function);
+
   background-color: #f5f4fa;
   color: var(--prime-text-color);
   font-family: Roboto, sans-serif;
